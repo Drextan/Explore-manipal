@@ -15,7 +15,7 @@
 }
 body {
       margin: 0;
-      background-image: url('/img/doodle.jpg');
+      background-image: url('.../img/doodle.jpg');
       background-size: 100% 100%;
       background-repeat: no-repeat;
       background-attachment: fixed;
@@ -121,4 +121,5 @@ video{
     max-height: 80%;
     margin-left: 15%;
     margin-right: 15%;
+
 }
