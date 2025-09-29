@@ -1,21 +1,21 @@
 @font-face {
     font-family: lavishly yours;
-    src: url(/fonts/Lavishly_Yours/LavishlyYours-Regular.ttf);
+    src: url(fonts/Lavishly_Yours/LavishlyYours-Regular.ttf);
 }
 @font-face {
     font-family: PCon ;
-    src: url(/fonts/Passions_Conflict/PassionsConflict-Regular.ttf);
+    src: url(fonts/Passions_Conflict/PassionsConflict-Regular.ttf);
 }
 @font-face {
     font-family: fest;
-    src: url(/fonts/mod/Meddon-Regular.ttf);
+    src: url(fonts/mod/Meddon-Regular.ttf);
 }
 #map{
     align-items: center;
 }
 body {
       margin: 0;
-      background-image: url('.../img/doodle.jpg');
+      background-image: url('img/doodle.jpg');
       background-size: 100% 100%;
       background-repeat: no-repeat;
       background-attachment: fixed;
